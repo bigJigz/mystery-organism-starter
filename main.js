@@ -82,13 +82,13 @@ const findPassingStrands = () => {
 }
 
 //↓↓Method Tests↓↓\\
-//findPassingStrands();
-//pAequor1.willLikelySurvive();
-//pAequor1.compareDNA(pAequor2);
-//console.log(pAequorFactory(1, mockUpStrand()));
-//console.log(pAequor1.dna);
-//pAequor1.mutate();
-//console.log(pAequor1.dna);
+findPassingStrands();
+pAequor1.willLikelySurvive();
+pAequor1.compareDNA(pAequor2);
+console.log(pAequorFactory(1, mockUpStrand()));
+console.log(pAequor1.dna);
+pAequor1.mutate();
+console.log(pAequor1.dna);
 
 
 
